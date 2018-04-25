@@ -1,0 +1,6 @@
+.vscode/
+.eggs/
+flaskr.egg-info/
+flaskr/__pycache__/
+flaskr.db
+tests/__pycache__/
